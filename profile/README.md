@@ -1,4 +1,4 @@
-![Norden Banner](assets/TeamRapidBlackBanner.svg)
+![Norden Banner](assets/TeamRapidBlack.png)
 # TeamNorden
 
 We're TeamRapid.
@@ -17,7 +17,7 @@ Want to learn more? [Check out our website](https://norden.wtf), or [join our Di
 - [Twitter](https://twitter.com/Codeize)
 - [Polywork](https://poly.work/codeize)
 
-@Conrad306 | LFounder & Lead Website Engineer
+@Conrad306 | Founder & Lead Website Engineer
 - [Discord](https://discord.com/users/403668506287144981)
 - [Twitter](https://twitter.com/Conrad306)
 - [Polywork](https://www.polywork.com/conrad306)
