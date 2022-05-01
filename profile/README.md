@@ -1,11 +1,11 @@
-![Norden Banner](assets/TeamRapidBlack.png)
-# TeamNorden
+![TeamRapid Banner](assets/TeamRapidBlack.png)
+# TeamRapid
 
 We're TeamRapid.
 
 Your bot, without the hassle.
 
-We're operated under [@TeamNorden](https://github.com/TeamNorden)'s jurisdiction, any concerns should be directed to their team members.
+We're operated under [@TeamNorden](https://github.com/TeamNorden)'s jurisdiction.
 
 Want to learn more? [Check out our website](https://norden.wtf), or [join our Discord](#discord)
 
