@@ -1,4 +1,4 @@
-![TeamRapid Banner](assets/TeamRapidBlack.png)
+![TeamRapid Banner](assets/TeamRapidBanner.png)
 # TeamRapid
 
 We're TeamRapid.
