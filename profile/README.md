@@ -19,8 +19,9 @@ Want to learn more? [Check out our website](https://norden.wtf), or [join our Di
 
 @Conrad306 | Founder & Lead Website Engineer
 - [Discord](https://discord.com/users/403668506287144981)
+- [GitHub](https://github.com/Conrad306)
 - [Twitter](https://twitter.com/Conrad306)
-- [Polywork](https://www.polywork.com/conrad306)
+- [Polywork](https://polywork.com/conrad306)
 
 ## Discord
 todo
