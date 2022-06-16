@@ -5,7 +5,7 @@ We're TeamRapid.
 
 Your bot, without the hassle.
 
-We're operated under [@TeamNorden](https://github.com/TeamNorden)'s jurisdiction.
+We work in association with [@TeamNorden](https://github.com/TeamNorden) and its services.
 
 Want to learn more? [Check out our website](https://norden.wtf), or [join our Discord](#discord)
 
