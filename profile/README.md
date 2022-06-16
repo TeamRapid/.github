@@ -7,7 +7,7 @@ Your bot, without the hassle.
 
 We work in association with [@TeamNorden](https://github.com/TeamNorden) and its services.
 
-Want to learn more? [Check out our website](https://norden.wtf), or [join our Discord](#discord)
+Want to learn more? [Check out our websiteˢᵒᵒⁿᵗᵐ](https://rapid.lol), or [join our Discord](#discord)
 
 ## Team
 
