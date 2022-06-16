@@ -23,6 +23,12 @@ Want to learn more? [Check out our websiteˢᵒᵒⁿᵗᵐ](https://rapid.lol),
 - [Twitter](https://twitter.com/Conrad306)
 - [Polywork](https://polywork.com/conrad306)
 
+@Ram/Xapu1337 | Lead Backend Engineer
+- [Discord](https://discord.com/users/188988455554908160)
+- [GitHub](https://github.com/Xapu1337)
+- [Twitter](https://twitter.com/Xapu1337)
+- [Polywork](https://polywork.com/xapu1337)
+
 ## Discord
 todo
 
