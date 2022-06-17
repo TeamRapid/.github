@@ -1,39 +1,39 @@
-![TeamRapid Banner](assets/TeamRapidBanner.png)
-# TeamRapid
+![teamrapid banner](assets/TeamRapidBanner.png)
+# teamrapid
 
-We're TeamRapid.
+we're teamrapid.
 
-Your bot, without the hassle.
+your bot, without the hassle.
 
-We work in association with [@TeamNorden](https://github.com/TeamNorden) and its services.
+we work in association with [@teamnorden](https://github.com/TeamNorden) and its services.
 
-Want to learn more? [Check out our websiteˢᵒᵒⁿᵗᵐ](https://rapid.lol), or [join our Discord](#discord)
+want to learn more? [check out our websiteˢᵒᵒⁿᵗᵐ](https://rapid.lol), or [join our discordˢᵒᵒⁿᵗᵐ](#discord)
 
-## Team
+## team
 
-@Codeize | Founder & Lead Website Engineer
+@codeize | founder & lead website engineer
 - [Discord](https://discord.com/users/668423998777982997)
 - [GitHub](https://github.com/Codeize)
 - [Twitter](https://twitter.com/Codeize)
 - [Polywork](https://poly.work/codeize)
 
-@Conrad306 | Founder & Lead Website Engineer
+@conrad306 | founder & lead website engineer
 - [Discord](https://discord.com/users/403668506287144981)
 - [GitHub](https://github.com/Conrad306)
 - [Twitter](https://twitter.com/Conrad306)
 - [Polywork](https://polywork.com/conrad306)
 
-@Ram/Xapu1337 | Lead Backend Engineer
-- [Discord](https://discord.com/users/188988455554908160)
-- [GitHub](https://github.com/Xapu1337)
-- [Twitter](https://twitter.com/Xapu1337)
+@xapu1337 | lead backend engineer
+- [discord](https://discord.com/users/188988455554908160)
+- [github](https://github.com/Xapu1337)
+- [twitter](https://twitter.com/Xapu1337)
 - [Polywork](https://polywork.com/xapu1337)
 
-## Discord
+## discord
 todo
 
-## Contributing
-View each project for the specific guidelines on contributing, but usually, we greatly appreciate it!
+## contributing
+view each project for the specific guidelines on contributing, but usually, we greatly appreciate it!
 
 ## Donations
 todo
