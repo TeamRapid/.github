@@ -12,22 +12,22 @@ want to learn more? [check out our websiteˢᵒᵒⁿᵗᵐ](https://rapid.lol),
 ## team
 
 @codeize | founder & lead website engineer
-- [Discord](https://discord.com/users/668423998777982997)
-- [GitHub](https://github.com/Codeize)
-- [Twitter](https://twitter.com/Codeize)
-- [Polywork](https://poly.work/codeize)
+- [discord](https://discord.com/users/668423998777982997)
+- [gitHub](https://github.com/Codeize)
+- [twitter](https://twitter.com/Codeize)
+- [polywork](https://poly.work/codeize)
 
 @conrad306 | founder & lead website engineer
-- [Discord](https://discord.com/users/403668506287144981)
-- [GitHub](https://github.com/Conrad306)
-- [Twitter](https://twitter.com/Conrad306)
-- [Polywork](https://polywork.com/conrad306)
+- [discord](https://discord.com/users/403668506287144981)
+- [gitHub](https://github.com/Conrad306)
+- [twitter](https://twitter.com/Conrad306)
+- [polywork](https://polywork.com/conrad306)
 
 @xapu1337 | lead backend engineer
 - [discord](https://discord.com/users/188988455554908160)
 - [github](https://github.com/Xapu1337)
 - [twitter](https://twitter.com/Xapu1337)
-- [Polywork](https://polywork.com/xapu1337)
+- [polywork](https://polywork.com/xapu1337)
 
 ## discord
 todo
